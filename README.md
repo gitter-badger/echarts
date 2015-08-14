@@ -1,5 +1,7 @@
 # ECharts
 
+[![Join the chat at https://gitter.im/uooo/echarts](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/uooo/echarts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![NPM version][npm-badge]][npm] [![Gitter][gitter-badge]][gitter]
 
 [![Dependency Status][deps-badge]][deps]
